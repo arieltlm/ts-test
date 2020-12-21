@@ -475,7 +475,8 @@ namespace Components {
 
 [Parcel Vs Webpack](https://segmentfault.com/a/1190000012612891): 2017-12-27作者使用项目亲自实践总结
 
-[parcel官方文档](https://zh.parceljs.org/getting_started.html):![parcel-features](/Users/tlm/Desktop/文档图片/parcel- features.png)
+[parcel官方文档](https://zh.parceljs.org/getting_started.html):
+![parcel-features](./images/parcel-features.png)
 
 # 16.yarn和npm
 
